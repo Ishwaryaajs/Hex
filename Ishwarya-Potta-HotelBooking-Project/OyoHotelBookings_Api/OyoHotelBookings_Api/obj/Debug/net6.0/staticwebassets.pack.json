@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\isdx\\Downloads\\OyoHotelBookings_Api\\OyoHotelBookings_Api\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\isdx\\Downloads\\OyoHotelBookings_Api\\OyoHotelBookings_Api\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\isdx\\Downloads\\OyoHotelBookings_Api\\OyoHotelBookings_Api\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\isdx\\Downloads\\OyoHotelBookings_Api\\OyoHotelBookings_Api\\wwwroot\\jquery.is.js\\jquery.is.js",
+      "PackagePath": "staticwebassets\\jquery.is.js\\jquery.is.js"
+    },
+    {
+      "Id": "C:\\Users\\isdx\\Downloads\\OyoHotelBookings_Api\\OyoHotelBookings_Api\\wwwroot\\jquery.is.js\\jquery.is.min.js",
+      "PackagePath": "staticwebassets\\jquery.is.js\\jquery.is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\isdx\\Downloads\\OyoHotelBookings_Api\\OyoHotelBookings_Api\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OyoHotelBookings_Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OyoHotelBookings_Api.props",
+      "PackagePath": "build\\OyoHotelBookings_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OyoHotelBookings_Api.props",
+      "PackagePath": "buildMultiTargeting\\OyoHotelBookings_Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OyoHotelBookings_Api.props",
+      "PackagePath": "buildTransitive\\OyoHotelBookings_Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

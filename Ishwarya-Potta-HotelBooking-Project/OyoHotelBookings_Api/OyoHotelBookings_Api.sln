@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OyoHotelBookings_Api", "OyoHotelBookings_Api\OyoHotelBookings_Api.csproj", "{64CEC896-C109-464D-B73C-0BCC69A1C70D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "oyo", "oyo", "{E821C9E0-8080-47D4-9D59-487761318D94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{5096E75D-D5AD-4B96-A0CB-217B768607B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApps", "WebApps", "{CF3C6628-2DEA-4B38-B07E-78ECCF94687C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OyoHotelBookings", "OyoHotelBookings", "{C6C2B514-6FE6-497C-90AE-A231BA991C1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{3349D5E8-836B-4090-88E8-4B2C795FD99E}"
+	ProjectSection(SolutionItems) = preProject
+		UnitTests.cs = UnitTests.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OyoHotelBookingSPA", "OyoHotelBookingSPA", "{85B87921-1347-4485-8655-340B4842436D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CEC896-C109-464D-B73C-0BCC69A1C70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CEC896-C109-464D-B73C-0BCC69A1C70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CEC896-C109-464D-B73C-0BCC69A1C70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CEC896-C109-464D-B73C-0BCC69A1C70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5096E75D-D5AD-4B96-A0CB-217B768607B7} = {E821C9E0-8080-47D4-9D59-487761318D94}
+		{CF3C6628-2DEA-4B38-B07E-78ECCF94687C} = {E821C9E0-8080-47D4-9D59-487761318D94}
+		{C6C2B514-6FE6-497C-90AE-A231BA991C1B} = {5096E75D-D5AD-4B96-A0CB-217B768607B7}
+		{3349D5E8-836B-4090-88E8-4B2C795FD99E} = {C6C2B514-6FE6-497C-90AE-A231BA991C1B}
+		{85B87921-1347-4485-8655-340B4842436D} = {CF3C6628-2DEA-4B38-B07E-78ECCF94687C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {310CC7C5-1777-460A-B30C-8ACEA51E10C3}
+	EndGlobalSection
+EndGlobal
